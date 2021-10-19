@@ -1,0 +1,33 @@
+.heading {
+    font-size: 35px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px white;
+    margin-right: 5px;
+}
+
+.note {
+    font-size: 15px;
+    color: white;
+}
+
+.song {
+    margin: 15px;
+    font-size: 23px;
+}
+
+canvas {
+    border: 5px ridge yellow;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 100px
+}
+
+.footer {
+    color: yellow;
+    background-color: blue;
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    position: fixed;
+    box-shadow: 5px 5px 5px blue;
+}
